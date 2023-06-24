@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi My name is Anuj Sahani<br>Data science enthusiast<br>🌍  I'm based in India<br>✉️  You can contact me at sahaniiianuj@gmail.com<br>🧠  I'm learning HuggingFace Transformers<br>🤝  I'm open to collaborating on NLP , DeepLearning, Machine Learning, Computer Vision<br>⚡  Data scientists transform bits of information into golden nuggets of knowledge
+Hi 👋 i'm a Data science enthusiast<br>🌍  I'm based in India<br>✉️  You can contact me at sahaniiianuj@gmail.com<br>🧠  I'm learning HuggingFace Transformers<br>🤝  I'm open to collaborating on NLP , DeepLearning, Machine Learning, Computer Vision<br>⚡  Data scientists transform bits of information into golden nuggets of knowledge
 
 
 ## 🌐 Socials:
