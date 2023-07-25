@@ -1,5 +1,8 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 # 💫 About Me:
-Hi 👋 i'm a Data science enthusiast<br>🌍  I'm based in India<br>✉️  You can contact me at sahaniiianuj@gmail.com<br>🧠  I'm learning HuggingFace Transformers<br>🤝  I'm open to collaborating on NLP , DeepLearning, Machine Learning, Computer Vision<br>⚡  Data scientists transform bits of information into golden nuggets of knowledge
+Hi 👋 i'm a Data science enthusiast<br>🌍  I'm based in India<br>✉️  You can contact me at sahaniiianuj@gmail.com<br>🧠  I'm learning HuggingFace Transformers<br>🤝  I'm open to collaborating on NLP , DeepLearning, Machine Learning, Computer Vision<br>📄 Know about my experiences [here](https://drive.google.com/file/d/1hfH-ms4jE66clH4cp73fKdOiFSIRFUHq/view?usp=sharing)<br>⚡  Data scientists transform bits of information into golden nuggets of knowledge
+
 
 
 ## 🌐 Socials:
@@ -31,7 +34,7 @@ Integrated Development Environment: Jupyter-Notebook, PyCharm.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anujsahani01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=anujsahani01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
